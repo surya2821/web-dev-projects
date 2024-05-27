@@ -57,9 +57,11 @@ export const NavBar = () => {
                 <a href="https://www.instagram.com/surya_2820_/"><img src={navIcon3} alt="" /></a>
               </div>
               
-              <HashLink to='#connect'>
-                <button className="vvd"><span>Let’s Connect</span></button>
-              </HashLink>
+           
+              <a href="https://surya-resume.tiiny.site" className="vvd">
+  <button><span>Download Resume</span></button>
+</a>
+            
             </span>
           </Navbar.Collapse>
         </Container>
