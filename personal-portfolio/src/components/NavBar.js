@@ -58,7 +58,7 @@ export const NavBar = () => {
               </div>
               
            
-              <a href="https://surya-resume.tiiny.site" className="vvd">
+              <a href="https://saisurya-resume.tiiny.site/" className="vvd">
   <button><span>Download Resume</span></button>
 </a>
             
